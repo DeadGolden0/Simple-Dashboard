@@ -4,7 +4,7 @@ Welcome to the **Tutorial Dashboard** repository! This Dashboard replicates a Yo
 
 ## 🚀 Showcase
 
-![website preview](https://github.com/DeadGolden0/dashboard/blob/main/assets/img/preview/Capture.JPG)
+![website preview](https://github.com/DeadGolden0/Simple-Dashboard/blob/main/assets/img/preview/Capture.JPG)
 
 ## 🤝 Contributing
 
