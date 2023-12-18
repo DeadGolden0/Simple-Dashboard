@@ -1,8 +1,4 @@
 # 🌐 Tutorial Dashboard
-This Dashboard is a reproduction of a Youtube tutorial video
-
-
-## 🌐 Arma3 Roleplay website support
 
 Welcome to the **Tutorial Dashboard** repository! This Dashboard replicates a YouTube tutorial video, serving as a resource for my training journey.
 
